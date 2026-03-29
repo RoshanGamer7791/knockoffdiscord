@@ -19,6 +19,10 @@
         {
             "user": "Engine",
             "message": "Hello"
+        },
+        {
+            "user": "Roshan The Modder",
+            "message": "I can pretend to be Roshan The Modder"
         }
     ]
 }
