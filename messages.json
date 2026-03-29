@@ -23,6 +23,10 @@
         {
             "user": "Roshan The Modder",
             "message": "I can pretend to be Roshan The Modder"
+        },
+        {
+            "user": "\\n Test",
+            "message": "Test"
         }
     ]
 }
