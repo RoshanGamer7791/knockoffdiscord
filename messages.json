@@ -27,6 +27,10 @@
         {
             "user": "\\n Test",
             "message": "Test"
+        },
+        {
+            "user": "TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest",
+            "message": "Test"
         }
     ]
 }
