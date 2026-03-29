@@ -1,8 +1,12 @@
 {
-  "messages": [
-    {
-      "user": "Roshan The Modder",
-      "message": "First Message on knockoff discord"
-    }
-  ]
+    "messages": [
+        {
+            "user": "Roshan The Modder",
+            "message": "First Message on knockoff discord"
+        },
+        {
+            "user": "",
+            "message": "Testing\n"
+        }
+    ]
 }
